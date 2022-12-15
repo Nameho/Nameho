@@ -1,8 +1,8 @@
 👋 Hello ! Moi c'est Alexis (mais on m'appelle Nam ou Namého), j'ai 30 ans. 
 
-👀 Je suis intéressé par les nouvelles technologies ainsi les réparations en tout genre.
+👀 Je suis intéressé par les nouvelles technologies ainsi que les réparations en tout genre.
 
-🌱 Je suis en formation de Développeur Web / Web Mobile depuis le mois de Mai 2022 (en reconversion totale). J'ai appris le HTML, le CSS, le JS (JQuery) et je compte apprendre ReactJS. 
+🌱 Je suis en formation de Développeur Web / Web Mobile depuis le mois de Mai 2022 (en reconversion totale) : celle-ci se termine le 27 Janvier 2023. J'ai appris le HTML, le CSS, le JS (JQuery) et je compte apprendre ReactJS. 
 
 💞️ Je suis passionné de jeux vidéo et de tennis de table.
 
