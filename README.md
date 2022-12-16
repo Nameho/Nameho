@@ -2,7 +2,7 @@
 
 👀 Je suis intéressé par les nouvelles technologies ainsi que les réparations en tout genre. Je m'intéresse à tout ce qui peut toucher à un ordinateur depuis que je suis adolescent (~2005) : les composants, l'avancée technologique des composants, la maintenance des ordinateurs.
 
-🌱 Je suis en formation de Développeur Web / Web Mobile depuis le mois de Mai 2022 (en reconversion totale) : celle-ci se termine le 27 Janvier 2023. J'ai appris le HTML, le CSS, le JS (JQuery) et je compte apprendre ReactJS dans un futur proche. 
+🌱 Je suis en formation de Développeur Web / Web Mobile depuis le mois de Mai 2022 (en reconversion totale) : celle-ci se termine le 27 Janvier 2023. J'ai appris le HTML, le CSS, le JS (JQuery) et je compte apprendre ReactJS par la suite. 
 
 💞️ Je suis passionné de jeux vidéo et de tennis de table.
 
