@@ -8,7 +8,7 @@
 
 📫 Je possède un compte LinkedIn que vous pouvez retrouver à <a target="_blank" href="https://www.linkedin.com/in/alexis-trudelle-ab9597194/">cette adresse</a>.
 
-⌨️ Vous pouvez retrouver temporairement mes premières créations <a target="_blank" href="https://nameho.app/index.php">ici</a>.
+⌨️ Vous pouvez retrouver mes premières créations <a target="_blank" href="https://nameho.app/index.php">ici</a>.
 
 
 <!---
