@@ -6,7 +6,9 @@
 
 💞️ Je suis passionné de jeux vidéo et de tennis de table.
 
-📫 Je possède un compte LinkedIn que vous pouvez retrouver à cette adresse => https://www.linkedin.com/in/alexis-trudelle-ab9597194/.
+📫 Je possède un compte LinkedIn que vous pouvez retrouver à <a href="https://www.linkedin.com/in/alexis-trudelle-ab9597194/">cette adresse</a>.
+
+⌨️ Vous pouvez retrouver temporairement mes premières créations <a href="https://mon-cv-simple.alwaysdata.net/">ici</a>.
 
 
 <!---
