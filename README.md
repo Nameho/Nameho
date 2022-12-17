@@ -6,7 +6,7 @@
 
 💞️ Je suis passionné de jeux vidéo et de tennis de table.
 
-📫 Je possède un compte LinkedIn que vous pouvez retrouver à <a target="_blank" href="https://www.linkedin.com/in/alexis-trudelle-ab9597194/">cette adresse</a>.
+📫 Je possède un compte LinkedIn que vous pouvez retrouver à [go]([http://stackoverflow.com](https://www.linkedin.com/in/alexis-trudelle-ab9597194/)){:target="_blank"}.
 
 ⌨️ Vous pouvez retrouver mes premières créations <a target="_blank" href="https://nameho.app/index.php">ici</a>.
 
