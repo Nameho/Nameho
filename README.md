@@ -1,17 +1,18 @@
-👋 Hello ! Moi c'est Alexis (mais on m'appelle Nam ou Namého), j'ai 30 ans. 
+👋 Hello ! Moi c'est Alexis (on m'appelle aussi Nam ou Namého).
 
-👀 Je suis intéressé par les nouvelles technologies ainsi que les réparations en tout genre. Je m'intéresse à tout ce qui peut toucher à un ordinateur depuis que je suis adolescent (~2005) : les composants, l'avancée technologique des composants, la maintenance des ordinateurs, etc.
+🔧 Je recherche un poste de **technicien de maintenance électronique / informatique** (courant faible), idéalement avec formation en interne. Secteur Saintes – Rochefort (17), permis B et véhicule.
 
-🌱 Je suis en formation de Développeur Web / Web Mobile depuis le mois de Mai 2022 (en reconversion totale) : celle-ci se termine le 27 Janvier 2023. J'ai appris le HTML, le CSS, le JS (JQuery) et je compte apprendre ReactJS par la suite. 
+🖥️ Je m'intéresse au matériel informatique depuis l'adolescence (~2005) : composants, évolution des technologies, maintenance des ordinateurs.
 
-💞️ Je suis passionné de jeux vidéo et de tennis de table.
+🧰 Ce que j'ai déjà fait :
+- Immersion en atelier de reconditionnement informatique (Ateliers du Bocage) : démontage d'anciens PC et remontage de machines fonctionnelles à partir des composants récupérés.
+- Diagnostic de panne au multimètre (continuité, tension en marche) : pompe de spa identifiée HS, puis remplacée.
+- Diagnostic de pannes simulées pendant ma formation de technicien helpdesk, et dépannage logiciel de PC.
 
-📫 Je possède un compte LinkedIn que vous pouvez retrouver à [cette adresse](https://www.linkedin.com/in/alexis-trudelle-ab9597194/).
+🎓 Titres AFPA : Technicien Helpdesk · Développeur Web et Web Mobile · Concepteur / Développeur d'Applications
 
-⌨️ Vous pouvez retrouver mes premières créations <a target="_blank" href="https://nameho.app/index.php">ici</a>.
+🌱 Ce que je veux apprendre : le diagnostic et la réparation au niveau composant sur cartes électroniques.
 
+💞 Passionné de jeux vidéo et de tennis de table.
 
-<!---
-Nameho/Nameho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Contact : par e-mail de préférence : alexis.trudelle17@gmail.com
